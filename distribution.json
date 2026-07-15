@@ -5,9 +5,9 @@
       "id": "Abystale-1.20.1",
       "name": "Abystale",
       "description": "Abystale Running Minecraft 1.20.1 (Forge v47.4.15)",
-      "icon": null,
+      "icon": https://github.com/e5studios/Abystale-Launcher-Files/blob/main/server-icon.png?raw=true,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
