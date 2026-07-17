@@ -5,7 +5,7 @@
   "latestVersion": "2.0.0",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.15",
-  "downloadUrl": "URL_DEL_ZIP_V2",
+  "downloadUrl": "https://github.com/e5studios/Abystale-Launcher-Files/releases/download/Abystale-BETA-v2.0.0/Abystale-BETA-v2.0.0.zip",
   "preserve": [
     "screenshots",
     "options.txt",
