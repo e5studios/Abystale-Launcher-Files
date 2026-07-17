@@ -7,7 +7,6 @@
   "forgeVersion": "47.4.15",
   "downloadUrl": "URL_DEL_ZIP_V2",
   "preserve": [
-    "saves",
     "screenshots",
     "options.txt",
     "servers.dat"
