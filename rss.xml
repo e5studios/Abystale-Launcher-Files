@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+
+<title>E5 Studios - Noticias</title>
+<link>https://github.com/e5studios/Abystale-Launcher-Files</link>
+<description>Noticias oficiales de E5 Studios y Abystale.</description>
+<language>es-cl</language>
+
+<item>
+<title>¡Bienvenido a Eclipse Launcher!</title>
+<link>https://github.com/e5studios/EclipseLauncher</link>
+<author>E5 Studios</author>
+<pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+
+<description><![CDATA[
+
+<h2>¡Bienvenido a Eclipse Launcher!</h2>
+
+<p>
+Gracias por utilizar el nuevo launcher oficial de
+<b>E5 Studios</b>.
+</p>
+
+<p>
+Desde aquí podrás descargar automáticamente las nuevas versiones de
+<b>Abystale</b>, recibir noticias, eventos y futuras actualizaciones.
+</p>
+
+<hr>
+
+<h3>Versión actual</h3>
+
+<ul>
+<li>✔ Nuevo sistema de actualización.</li>
+<li>✔ Descarga automática del proyecto.</li>
+<li>✔ Instalación simplificada.</li>
+<li>✔ Interfaz completamente en español.</li>
+</ul>
+
+<p>
+¡Gracias por apoyar el desarrollo!
+</p>
+
+]]></description>
+
+</item>
+
+</channel>
+
+</rss>
