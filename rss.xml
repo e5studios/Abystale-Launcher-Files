@@ -1,52 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
 
-<channel>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 
-<title>E5 Studios - Noticias</title>
-<link>https://github.com/e5studios/Abystale-Launcher-Files</link>
-<description>Noticias oficiales de E5 Studios y Abystale.</description>
-<language>es-cl</language>
+    <channel>
+        <title>E5 Studios - Noticias</title>
+        <link>https://github.com/e5studios/Abystale-Launcher-Files</link>
+        <description>Noticias oficiales de E5 Studios y Abystale.</description>
+        <language>es-CL</language>
 
-<item>
-<title>¡Bienvenido a Eclipse Launcher!</title>
-<link>https://github.com/e5studios/EclipseLauncher</link>
-<author>E5 Studios</author>
-<pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+        <item>
+            <title>¡Bienvenido a Eclipse Launcher!</title>
 
-<description><![CDATA[
+            <link>https://github.com/e5studios/EclipseLauncher</link>
 
-<h2>¡Bienvenido a Eclipse Launcher!</h2>
+            <dc:creator><![CDATA[E5 Studios]]></dc:creator>
 
-<p>
-Gracias por utilizar el nuevo launcher oficial de
-<b>E5 Studios</b>.
-</p>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
 
-<p>
-Desde aquí podrás descargar automáticamente las nuevas versiones de
-<b>Abystale</b>, recibir noticias, eventos y futuras actualizaciones.
-</p>
+            <slash:comments>0</slash:comments>
 
-<hr>
+            <content:encoded><![CDATA[
+                <h2>¡Bienvenido a Eclipse Launcher!</h2>
 
-<h3>Versión actual</h3>
+                <p>
+                    Gracias por utilizar el launcher oficial de
+                    <strong>E5 Studios</strong>.
+                </p>
 
-<ul>
-<li>✔ Nuevo sistema de actualización.</li>
-<li>✔ Descarga automática del proyecto.</li>
-<li>✔ Instalación simplificada.</li>
-<li>✔ Interfaz completamente en español.</li>
-</ul>
+                <p>
+                    Desde aquí podrás descargar automáticamente las nuevas
+                    versiones de <strong>Abystale</strong> y recibir noticias,
+                    anuncios, eventos y actualizaciones.
+                </p>
 
-<p>
-¡Gracias por apoyar el desarrollo!
-</p>
+                <hr>
 
-]]></description>
+                <h3>Características actuales</h3>
 
-</item>
+                <ul>
+                    <li>Nuevo sistema de actualización.</li>
+                    <li>Descarga automática de Abystale.</li>
+                    <li>Instalación simplificada.</li>
+                    <li>Interfaz completamente en español.</li>
+                    <li>Sistema oficial de noticias.</li>
+                </ul>
 
-</channel>
+                <p>
+                    Gracias por apoyar el desarrollo de nuestros proyectos.
+                </p>
+            ]]></content:encoded>
+        </item>
+    </channel>
 
 </rss>
