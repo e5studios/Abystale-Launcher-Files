@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+   "rss": "https://raw.githubusercontent.com/e5studios/Abystale-Launcher-Files/main/rss.xml",
   "servers": [
     {
       "id": "Abystale-1.20.1",
