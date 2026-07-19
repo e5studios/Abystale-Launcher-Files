@@ -9,6 +9,7 @@
   "preserve": [
     "screenshots",
     "options.txt",
-    "servers.dat"
+    "servers.dat",
+    "saves"
   ]
 }
