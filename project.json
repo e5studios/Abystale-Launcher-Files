@@ -2,10 +2,10 @@
   "id": "Abystale-1.20.1",
   "name": "Abystale",
   "channel": "BETA",
-  "latestVersion": "3.2.0",
+  "latestVersion": "3.3.0",
   "minecraftVersion": "1.20.1",
   "forgeVersion": "47.4.15",
-  "downloadUrl": "https://github.com/e5studios/Abystale-Launcher-Files/releases/download/Abystale-BETA-v3.2.0/Abystale.BETA.v3.2.0.zip",
+  "downloadUrl": "https://github.com/e5studios/Abystale-Launcher-Files/releases/download/Abystale-BETA-v3.3.0/Abystale.BETA.v3.3.0.zip",
   "preserve": [
     "screenshots",
     "options.txt",
