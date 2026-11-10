@@ -6,11 +6,11 @@
       "state": "embargo",
       "background": "https://raw.githubusercontent.com/e5studios/Abystale-Launcher-Files/main/backgrounds/Abystale-1_20_1.png",
       "embargo": {
-        "preDownloadAt": "",
-        "releaseAt": "2026-11-10T20:00:00.000Z",
-        "serverOpenAt": "",
+        "preDownloadAt": "2026-12-07T16:00:00.000Z",
+        "releaseAt": "2026-11-12T03:00:00.000Z",
+        "serverOpenAt": "2026-11-13T21:00:00.000Z",
         "message": "",
-        "releaseMessage": "Ojito",
+        "releaseMessage": "",
         "eventMessage": ""
       }
     }
