@@ -4,5 +4,13 @@
     "passwordHash": "1521668b220d5014369f34509ba6e78a:78fe267b82dadf0c9e3bf2f522f78f447642f7df2942135a180b5e888144d1c33f1e1638f9d4ebc16ef44756d12404b47b7c06e936bb007df3c53adc2f32cced",
     "createdAt": "2026-11-10T18:25:45.171Z"
   },
-  "users": []
+  "users": [
+    {
+      "username": "Whereismat",
+      "passwordHash": "1d179c139b834e10fda02131971021b6:053840e826c162d2b3b5384fb469a9df6b0fa1ee00d4267dcc3a5b5d109f6281fd28ba195b041e439bf68bae9b63abc41598f8a30a0442b74a12557ddbbf9791",
+      "active": true,
+      "role": "player",
+      "createdAt": "2026-11-10T19:02:42.882Z"
+    }
+  ]
 }
