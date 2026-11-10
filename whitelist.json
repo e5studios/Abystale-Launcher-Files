@@ -1,10 +1,5 @@
 {
-  "admin": {
-    "username": "Zekywow",
-    "passwordHash": "f100a7b1e754a12a559612c673c47de2:8335f1d619b8ef691f810441178cad0d642b27dfda5b2516e78f5739605ea962771c21e7df1e7757b42ebdf376f770c15878dc3118bd73cf9ee54ee4370dc3df",
-    "active": true,
-    "createdAt": "2026-11-10T20:44:25.514Z"
-  },
+  "admin": null,
   "users": [
     {
       "username": "Whereismat",
