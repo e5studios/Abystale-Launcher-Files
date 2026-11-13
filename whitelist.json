@@ -5,13 +5,5 @@
     "active": true,
     "createdAt": "2026-11-10T20:44:49.549Z"
   },
-  "users": [
-    {
-      "username": "Whereismat",
-      "passwordHash": "966d7adcaf187d2a533096c439c6b845:86a9c2a6eda7ac7394dd3564750f0c7579a0800598b05517124b8b82297e6ec6839b9611161c5a3564fdf79f6f524650d44464c8a308252016ffd5a7a7c5a46e",
-      "active": true,
-      "role": "player",
-      "createdAt": "2026-11-10T19:33:15.829Z"
-    }
-  ]
+  "users": []
 }
