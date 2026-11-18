@@ -1,4 +1,9 @@
 {
-  "admin": null,
+  "admin": {
+    "username": "ZekyWow",
+    "passwordHash": "6880c302bff7a9cc5501518c4349a426:63cbec5f67fe943950148f7a7b024bebaaddcf7ea7b793f193d4ae63a0d9da1b1156da44afd9b1ae963c6c0352bc79c5ddbdebb864e08ddaf9e7fe35feb1c173",
+    "active": true,
+    "createdAt": "2026-11-18T23:25:52.662Z"
+  },
   "users": []
 }
